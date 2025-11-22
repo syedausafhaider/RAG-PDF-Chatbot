@@ -1,0 +1,12 @@
+langchain>=0.0.185
+langgraph>=0.0.17
+faiss-cpu>=1.7.4
+chromadb>=0.3.23
+sentence-transformers>=2.2.2
+transformers>=4.33.1
+torch>=2.0.1
+pdfplumber>=0.10.0
+streamlit>=1.22.0
+gradio>=3.38.0
+python-dotenv>=1.0.0
+
